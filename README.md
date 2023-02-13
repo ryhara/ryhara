@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aaxouei&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- https://zenn.dev/a_ichi1/articles/64f353e23408b9 -->
+
 
 
