@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaxouei&thema=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaxouei&layout=compact&show_icon=true&theme=gotham)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaxouei&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaxouei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aaxouei&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
