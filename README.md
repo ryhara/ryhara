@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryhara&theme=github)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryhara&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryhara&theme=github&utcOffset=8) -->
+<!-- https://jackswim3411.hatenablog.com/entry/2021/09/18/205206 -->
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhara&layout=compact&show_icons=true&theme=vue-dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryhara&theme=vue-dark&show_icons=ture" />
@@ -23,6 +27,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryhara&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- https://zenn.dev/a_ichi1/articles/64f353e23408b9 -->
+<!-- icons https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 
 
