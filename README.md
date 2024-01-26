@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </p>
 <!-- https://zenn.dev/a_ichi1/articles/0411396e6b887d -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryhara&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryhara&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
 <!-- https://zenn.dev/a_ichi1/articles/64f353e23408b9 -->
 <!-- icons https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
