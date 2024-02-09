@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryhara&theme=github)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryhara&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryhara&theme=github&utcOffset=8) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryhara&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryhara&theme=github&utcOffset=8)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryhara&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!-- https://jackswim3411.hatenablog.com/entry/2021/09/18/205206 -->
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryhara&layout=compact&show_icons=true&theme=vue-dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryhara&theme=vue-dark&show_icons=ture" />
