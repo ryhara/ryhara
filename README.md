@@ -1,25 +1,19 @@
-
-<!--
-**ryhara/ryhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hello, I'm ryhara</h1>
+<p align="center">
+  I'm a student at Keio University in Japan.
+</p>
+<h2 align="center">About Me</h2>
+<p align="center">
+  🎓 Studying Computer Vision and Machine Learning at University. <br>
+  💻  Learning software engineering at 42Tokyo.
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryhara&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryhara&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryhara&theme=github&utcOffset=9)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryhara&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryhara&layout=donut-vertical&langs_count=20&hide=jupyter%20notebook,html,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://jackswim3411.hatenablog.com/entry/2021/09/18/205206 -->
 <!--
