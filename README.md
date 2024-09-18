@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm ryhara</h1>
+<h1 align="center">Hello, I'm Ryosei Hara</h1>
 <p align="center">
   I'm a student at Keio University in Japan.
 </p>
