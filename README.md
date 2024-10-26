@@ -8,6 +8,7 @@
   💻  Learning software engineering at 42Tokyo.
 </p>
 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryhara&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryhara&theme=github)
 
